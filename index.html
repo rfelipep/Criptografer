@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cryptografer</title>
+    <link rel="stylesheet" href="/estilos/estilos.css">
+</head>
+<body >
+<main >
+<section>
+    <h1 class="logo"><img src="imagens/Frame 6.png" alt=""></h1>
+    <section class="input"><input type="text" id="inputdoinput" class="inputdoinput" placeholder="Digite seu texto"></section>
+    <section class="aviso"><img src="imagens/Vector.png" alt="">Apenas letras minúsculas e sem acento.</section> 
+    <section class="botao">
+    <button onclick="criptog()" id="mostrebotao" class="b1">Criptografar</button>
+    <button onclick="descriptog()" class="b2">Descriptografar</button>
+    </section>
+</section>
+<section class="caixacanto">
+    <p id="output" class="resultado" hidden>teste</p>
+    <p class="boneco" id="boneco"><img src="imagens/High quality products 1 1.png" alt=""></p>
+    <div class="neno" id="neno" >Nenhuma mensagem encontrada.</div>
+    <div class="bobo" id="bobo">Digite um texto que voce deseja criptografar ou descriptografar.</div>
+    <button onclick="copiar()" id="copia" class="copy" hidden>Copiar</button>
+</section>
+</main>
+<script src="/modulo.js"></script>
+</body>
+</html>
