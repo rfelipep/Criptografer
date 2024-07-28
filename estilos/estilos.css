@@ -137,7 +137,7 @@ main {
     margin-top: 20px;
     font-weight: bold;
     color: var(--primary-black);
-    max-witdth: 150px;
+    max-width: 150px;
 }
 
 .logo img, .aviso img {
