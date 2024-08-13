@@ -16,8 +16,11 @@ Por exemplo:
 "gaitober" volta a ser "gato"
 Funcionalidades
 Criptografar texto: Converte o texto original para a versão criptografada usando as regras de substituição.
+
 Descriptografar texto: Converte o texto criptografado de volta para a versão original.
+
 Copiar texto: Um botão que copia o texto criptografado/descriptografado para a área de transferência.
+
 Tecnologias Utilizadas
 HTML
 CSS
