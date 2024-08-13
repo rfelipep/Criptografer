@@ -14,7 +14,9 @@ Por exemplo:
 
 "gato" se torna "gaitober"
 "gaitober" volta a ser "gato"
+
 Funcionalidades
+
 Criptografar texto: Converte o texto original para a versão criptografada usando as regras de substituição.
 
 Descriptografar texto: Converte o texto criptografado de volta para a versão original.
