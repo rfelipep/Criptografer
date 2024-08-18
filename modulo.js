@@ -116,7 +116,7 @@ function habilitaroutput() {
 function copiar(){
     var copiado = document.getElementById('output');
     navigator.clipboard.writeText(copiado.textContent);
-    window.location.reload();;
+    window.location.reload();
 }
 
 function verificarTexto(texto) {
